@@ -106,6 +106,8 @@ public class ManageEmployee {
     }
 }
 
+
+
 //    /* Method to DELETE an employee from the records */
 //    public void deleteEmployee(Integer EmployeeID){
 //        Session session = factory.openSession();

@@ -16,10 +16,10 @@
             jdbc:mysql://localhost/test
         </property>
         <property name="hibernate.connection.username">
-            root
+            <!-- Enter User Name -->
         </property>
         <property name="hibernate.connection.password">
-            root
+            <!-- Enter Password -->
         </property>
 
         <!-- List of XML mapping files -->

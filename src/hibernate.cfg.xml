@@ -11,15 +11,17 @@
             com.mysql.jdbc.Driver
         </property>
 
-        <!-- Assume test is the database name -->
+        <!-- Replace test with the database name -->
         <property name="hibernate.connection.url">
             jdbc:mysql://localhost/test
         </property>
         <property name="hibernate.connection.username">
             <!-- Enter User Name -->
+            root
         </property>
         <property name="hibernate.connection.password">
             <!-- Enter Password -->
+            root
         </property>
 
         <!-- List of XML mapping files -->
